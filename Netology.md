@@ -1,13 +1,13 @@
 
 ##### Основы Git и Java
 - [Внедрение системы контроля версий. История работы и ветки.](https://github.com/Vladlen1988/SalesManager.git)
-- [Командная работа](https://github.com/Vladlen1988/Basket.git)
-- [Generics в коллекциях и методах](https://github.com/Vladlen1988/MagicBox.git)
-- [Коллекции List]()
-- [Коллекции Queue]()
-- [Коллекция HashMap и HashSet #1]()
-- [Коллекция HashMap и HashSet #2]()
-- [Коллекции TreeMap и TreeSet]()
+- [Командная работа.](https://github.com/Vladlen1988/Basket.git)
+- [Generics в коллекциях и методах.](https://github.com/Vladlen1988/MagicBox.git)
+- [Коллекции List.](https://github.com/Vladlen1988/ShoppingList.git)
+- [Коллекции Queue.](https://github.com/Vladlen1988/AmusementPark.git)
+- [Коллекция HashMap и HashSet №1.](https://github.com/Vladlen1988/Collections.git)
+- [Коллекция HashMap и HashSet №2.](https://github.com/Vladlen1988/WordsChecker.git)
+- [Коллекции TreeMap и TreeSet.](https://github.com/Vladlen1988/NotablePerson.git)
 ##### JavaCore
 - [Лямбда-выражения и функциональные интерфейсы]()
 - [Stream API. Потоки, повторные вызовы, основные методы]()
