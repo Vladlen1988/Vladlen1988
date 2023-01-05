@@ -19,11 +19,10 @@
 - [Протокол HTTP. Вызовы удаленных серверов.](https://github.com/Vladlen1988/Cats.git)
 - [JVM. Организация памяти, сборщики мусора, VisualVM.](https://github.com/Vladlen1988/JvmComprehension.git)
 ##### Шаблоны проектирования
-- [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype]()
-- [Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight]()
-- [Поведенческие шаблоны. Command, CoR, Observer, Iterator]()
-- [Magics, DRY, SOLID]()
+- [Порождающие шаблоны. Builder.](https://github.com/Vladlen1988/People.git)
+- [Структурные шаблоны. Adapter.](https://github.com/Vladlen1988/Calculator.git)
+- [Структурные шаблоны. Facade.](https://github.com/Vladlen1988/BinaryFacade.git)
+- [Поведенческие шаблоны. Iterator](https://github.com/Vladlen1988/Iterator.git)
 
 ##### Дипломная работа
-[ «Поисковая система»]()
-
+[ «Поисковая система»](https://github.com/Vladlen1988/pcs-final-diplom.git)
