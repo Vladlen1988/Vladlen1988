@@ -1,4 +1,13 @@
-
+##### Основы Java
+- [Структура программы.](https://github.com/Vladlen1988/payment.git)
+- [Условные операторы и циклы.](https://github.com/Vladlen1988/Days.git)
+- [Типы данных в Java: примитивы.](https://github.com/Vladlen1988/taxationsSystem.git)
+- [Типы данных в Java: объекты.](https://github.com/Vladlen1988/Name.git)
+- [Структура класса.](https://github.com/Vladlen1988/Books.git)
+- [Массивы одномерные.](https://github.com/Vladlen1988/Arrays.git)
+- [Массивы многомерные.](https://github.com/Vladlen1988/-Pandemic-simulator.git)
+- [Модификаторы доступа, наследование. Полиморфизм. Абстракции и интерфейсы.](https://github.com/Vladlen1988/Accounts.git)
+- [Исключения, Stacktrace.](https://github.com/Vladlen1988/Stacktrace.git)
 ##### Основы Git и Java
 - [Внедрение системы контроля версий. История работы и ветки.](https://github.com/Vladlen1988/SalesManager.git)
 - [Командная работа.](https://github.com/Vladlen1988/Basket.git)
